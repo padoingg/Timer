@@ -9,9 +9,9 @@ using System.Windows.Forms;
 
 namespace Timer
 {
-    public partial class Form1 : Form
+    public partial class Name : Form
     {
-        public Form1()
+        public Name()
         {
             InitializeComponent();
         }
